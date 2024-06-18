@@ -80,7 +80,7 @@
 		"@vladfrangu/async_event_emitter": "^2.2.4",
 		"discord-api-types": "0.37.79",
 		"tslib": "^2.6.2",
-		"ws": "^8.16.0"
+		"ws": "^8.17.1"
 	},
 	"devDependencies": {
 		"@discordjs/api-extractor": "workspace:^",
